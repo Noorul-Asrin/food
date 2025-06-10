@@ -1,0 +1,74 @@
+.home{
+   background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20230527/pngtree-an-arrangement-of-various-indian-food-image_2683809.jpg);
+   background-size: cover;
+   
+   
+}
+.contact,.index,.menu,.order{
+    font-family: "Young Serif", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.title{
+ 
+    color:honeydew;
+    font-size: 30px;
+    font-display: optional;
+    font-weight: bolder;
+    padding: 10px;
+    border-radius: 10px;
+}
+.title-home,.title-menu,.title-contact{
+    background-color: beige;
+    padding: 10px;
+    margin-left: 10px;
+    border-radius: 10px;
+    text-decoration: none;
+}
+.paneer,.naan,.gravy{
+    width: 200px;
+    height: 600px;
+    background-color:plum ;
+    padding: 20px;
+    border-radius: 20px;
+    margin-top: 20px;
+    display: inline-block;
+    vertical-align: top;
+    
+  
+}
+.paneer-order,.naan-order,.gravy-order{
+    background-color: black;
+    color: white;
+    margin-left: 40px;
+    padding: 10px;
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+.table__name-input,.table__phone-input,.table__address-input,.table__drink-input,.table__qty-input{
+  border: none;
+  border-bottom: solid 1px;
+   margin-top: 20px;
+
+}
+
+.table__order-title{
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+.order-button{
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+ 
+  
+    
+  
+   
